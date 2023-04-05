@@ -1,0 +1,51 @@
+
+
+body {background-color: aqua; margin:}
+
+img {height: 300px;}
+
+div {font-size: 18px;}
+
+section {font-size: 18px;}
+
+.center {text-align: center; font-size: 80px;}
+
+.contact {font-size: 25px;}
+
+nav { display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-around;
+margin:0
+height: 10vh;
+}
+
+.paragraph {font-size: 25px; 
+display:flex;
+justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
