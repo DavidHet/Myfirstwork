@@ -1,5 +1,4 @@
 
-
 body {background-color: aqua; margin:}
 
 img {height: 300px;}
@@ -17,8 +16,7 @@ flex-direction: row;
 flex-wrap: wrap;
 justify-content: space-around;
 margin:0
-height: 10vh;
-}
+height: 10vh;}
 
 .paragraph {font-size: 25px; 
 display:flex;
