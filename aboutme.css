@@ -1,5 +1,5 @@
 
-body {background-color: aqua; margin:}
+body {background-color: aqua; margin: 0;}
 
 img {height: 300px;}
 
@@ -15,7 +15,7 @@ nav { display: flex;
 flex-direction: row;
 flex-wrap: wrap;
 justify-content: space-around;
-margin:0
+margin:0;
 height: 10vh;}
 
 .paragraph {font-size: 25px; 
